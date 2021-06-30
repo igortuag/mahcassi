@@ -1,9 +1,3 @@
-<div align="center">
- <h1> 
-   <a href="https://fontmeme.com/fonts/libre-franklin-font/"><img src="https://fontmeme.com/temporary/6e1d94096085911b8fcd2baae9ecf416.png" alt="libre-           franklin-font" border="0">
-   </a>
- </h1>
-</div>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/maria-eduarda-cassiano/">
